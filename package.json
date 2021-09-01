@@ -1,0 +1,27 @@
+{
+  "name": "gr0undzero-home",
+  "version": "1.0.0",
+  "description": "homepage of groundaero",
+  "main": "index.js",
+  "scripts": {
+    "test": "use1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuynnR/gr0undzero-home.git"
+  },
+  "keywords": [
+    "cybersecurity",
+    "foundation-css",
+    "white-hat"
+  ],
+  "author": "GuynnR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuynnR/gr0undzero-home/issues"
+  },
+  "homepage": "https://github.com/GuynnR/gr0undzero-home#readme",
+  "dependencies": {
+    "foundation-sites": "^6.6.3"
+  }
+}
