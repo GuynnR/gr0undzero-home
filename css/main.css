@@ -1,0 +1,6 @@
+@import url(template.css);
+@import url(articles.css);
+body {
+    background-color: rgb(206, 206, 206);
+    color: rgb(0, 0, 0);
+}
